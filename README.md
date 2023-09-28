@@ -1,1 +1,1 @@
-Simple running : dart run bi/namafile
+Simple running : dart run bi/ namafile
