@@ -1,1 +1,1 @@
-Simple running : dart run bi/ namafile
+Materi belajar ada di folder bin
