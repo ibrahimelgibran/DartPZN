@@ -13,3 +13,8 @@ dependencies:
 dev_dependencies:
   lints: ^2.0.0
   test: ^1.21.0
+
+name: my_dart_project
+description: A new Dart project
+environment:
+  sdk: ">=2.0.0 <3.0.0" # Atur versi SDK Dart yang sesuai
