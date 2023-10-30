@@ -1,5 +1,5 @@
 void main(List<String> args) {
-  for (int counter = 0; counter < 5; counter = counter + 1) {
-    print("Hekko");
+  for (int counter = 5; counter > 1; counter -= 2) {
+    print("Hello");
   }
 }
